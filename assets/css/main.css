@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "FarAwayGalaxy";
+  src: url("/fonts/FarAwayGalaxy") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
